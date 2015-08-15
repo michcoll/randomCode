@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - referral@localhost" uuid="df1838a7-07f7-439d-8c95-9fef557dbbc9">
+      <secret-storage>master_key</secret-storage>
+      <user-name>admin</user-name>
+      <schema-pattern>referral.*</schema-pattern>
+      <default-schemas>referral.*</default-schemas>
+    </data-source>
+  </component>
+</project>
